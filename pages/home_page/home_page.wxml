@@ -1,0 +1,36 @@
+<view class="container">
+  <view class="search-section">
+     <view class="search-name">
+       CARBEN
+     </view>
+     <view class="search-block">
+       <input class="search-input" type="text" placeholder="搜人、搜车、搜内容"/>
+     </view>
+  </view>
+  <view class="options-section">
+    <view class="options-list">
+      <view class="options-item">关注</view>
+      <view class="options-item active">发现</view>
+      <view class="options-item">视频</view>
+    </view>
+  </view>
+    <!-- 内容板块 -->
+  <view class="content-section">
+    <!-- 发现 -->
+    <view class="found-section die_first">
+      <view class="found_banner-list">
+        <view class="found_banner-item step1">
+          <image class="" src="/img/01.jpg"></image>
+        </view>
+        <view class="found_banner-item step2">
+          <image class="" src="/img/02.jpg"></image>
+        </view>
+        <view class="found_banner-item step3">
+          <image class="" src="/img/04.jpg"></image>
+        </view>
+      </view>
+    </view>
+
+
+  </view>
+</view>
